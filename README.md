@@ -7,7 +7,7 @@ Always looking forward to opportunities that allow me to learn, grow and contrib
 
 🔴 Degree: B.S in Computer Science at University of Cincinnati (Sophomore Year)<br/>
 🟠 What I am currently learning: C++ & HTML<br/>
-🟡 Tech Stack: Python, MATLAB, MySQL, LabVIEW, HTML, VBA, C++, Github, Excel, Notion, Visual Studio, Visual Studio Basic<br/>
+🟡 Tech Stack: Python, MATLAB, MySQL, LabVIEW, HTML, CSS, VBA, C++, Github, Excel, Notion, Visual Studio, Visual Studio Basic<br/>
 🟢 Email: awasthsa@mail.uc.edu<br/>
 🔵 LinkedIn: www.linkedin.com/in/sharanyaawasthi<br/>
 🟣 Pronouns: She/Her/Hers<br/>
